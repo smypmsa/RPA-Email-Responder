@@ -2,8 +2,9 @@
 # https://github.com/robocorp/rcc/blob/master/docs/recipes.md#what-is-in-robotyaml
 
 tasks:
-  Run Task:
-    shell: python -m robocorp.tasks run tasks.py
+  Categorize and respond:
+    shell: python -m robocorp.tasks run tasks/categorize_and_respond.py
+  
 
 environmentConfigs:
   - environment_windows_amd64_freeze.yaml

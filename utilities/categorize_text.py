@@ -11,6 +11,7 @@ from nltk.tokenize import word_tokenize
 
 def download_nltk_packages():
     """Download necessary NLTK packages."""
+
     packages = ['punkt', 'stopwords']
 
     for package in packages:
@@ -25,6 +26,7 @@ def download_nltk_packages():
 
 def load_keywords():
     """Load keywords for each category from a JSON file."""
+
     keywords_file_path = 'resources/email_categories.json'
 
     with open(keywords_file_path, 'r') as file:
@@ -41,6 +43,7 @@ def preprocess_and_tokenize(text):
     tokens = [word for word in tokens if word.isalpha() and word not in stopwords.words('english')]
 
     return set(tokens)
+
 
 def categorize_email(subject, body):
     """Categorize an email based on its subject and body content."""

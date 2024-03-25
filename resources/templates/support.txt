@@ -1,3 +1,10 @@
-Dear user,
-This is a response to your support request.
-Thanks.
+Dear [CustomerName],
+
+We received your request for support and are actively working to resolve the issue. Our team is committed to providing a solution as swiftly as possible. In the meantime, if you have any additional information or questions, please feel free to share them with us.
+
+Warm regards,
+
+Your Support
+XYZ Company
+6789 Support Ave, Tech Town
+Phone: (234) 567-8901

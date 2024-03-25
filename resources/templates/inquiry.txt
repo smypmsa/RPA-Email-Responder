@@ -1,3 +1,10 @@
-Dear user,
-This is a response to your inquiry request.
-Thanks.
+Dear [CustomerName],
+
+Thank you for your inquiry about our products. We're pleased to inform you that the product you're interested in is currently available. For detailed information on features, pricing, and how to proceed with your purchase, please contact us at your convenience.
+
+Kind regards,
+
+Your Support
+XYZ Company
+3456 Inquiry Rd, Market City
+Phone: (345) 678-9012

@@ -1,3 +1,10 @@
-Dear user,
-This is a response to your billing request.
-Thanks.
+Dear [CustomerName],
+
+Thank you for reaching out to us regarding your billing concerns. We are currently preparing your billing details and will provide you with a comprehensive statement shortly. Should you have any immediate questions or require further clarification, please do not hesitate to contact us.
+
+Best regards,
+
+Your Support
+XYZ Company
+1234 Billing St, Finance City
+Phone: (123) 456-7890
