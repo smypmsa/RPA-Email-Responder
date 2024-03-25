@@ -1,0 +1,29 @@
+{
+    "billing": [
+        "invoice",
+        "payment",
+        "balance",
+        "billing",
+        "subscription",
+        "charges",
+        "breakdown"
+    ],
+    "support": [
+        "troubleshoot",
+        "technical",
+        "error",
+        "issue",
+        "problem",
+        "support",
+        "help"
+    ],
+    "inquiry": [
+        "inquiry",
+        "interested",
+        "question",
+        "information",
+        "details",
+        "specification",
+        "warranty"
+    ]
+}

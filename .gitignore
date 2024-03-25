@@ -1,5 +1,7 @@
 output/
+creds/
 venv/
+env/
 temp/
 .rpa/
 .idea/

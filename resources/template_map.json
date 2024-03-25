@@ -1,0 +1,5 @@
+{
+    "billing": "resources/templates/billing.txt",
+    "support": "resources/templates/support.txt",
+    "inquiry": "resources/templates/inquiry.txt"
+}
