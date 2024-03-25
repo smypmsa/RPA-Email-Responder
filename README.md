@@ -1,6 +1,6 @@
 # RPA Email Responder
 
-The RPA bot is built using Robocorp. It reads and categorizes emails, responds to them. Categorization is token-based (see resources).
+The RPA bot is built using Robocorp. It reads and categorizes emails, responds to them. Categorization is token-based (see resources). The current categories are the following - billing, support, inquiry.
 
 The bot can be published to Robocorp Control Room with the email trigger and launched using cloud workers (240 minutes free). The process is triggered by new emails. All logs, including exceptions, are stored in Control Room.
 
