@@ -2,11 +2,11 @@
 
 The RPA bot is built using Robocorp. It reads and categorizes emails, responds to them. Categorization is token-based (see resources).
 
-The bot can be published to Robocorp control room with the email trigger and launched using cloud workers (240 minutes free). Each email triggers the process in Control Room. The inputs for the process are parsed email details. All logs, including exceptions, are stored in Control Room.
+The bot can be published to Robocorp Control Room with the email trigger and launched using cloud workers (240 minutes free). The process is triggered by new emails. All logs, including exceptions, are stored in Control Room.
 
-It would be more convinient to set up a separate mailbox. You can enable forwarding all requests to the email trigger address generated in Conrol Room. The bot can reply to emails using mailbox created outside Control Room. Save credentials to the mailbox as a secret in Control Room.
+It would be more convinient to set up a separate mailbox. You can enable forwarding all requests to the email trigger address generated in Conrol Room. The bot can reply to emails using the created mailbox. Save credentials to the mailbox as a secret in Control Room.
 
-To check the bot please send requests to general@intelautoconsult.com.
+To check the bot, please send requests to general@intelautoconsult.com.
 
 # Template: Python - Minimal
 
