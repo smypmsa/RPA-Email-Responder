@@ -6,8 +6,6 @@ The bot can be published to Robocorp Control Room with the email trigger and lau
 
 It would be more convinient to set up a separate mailbox. You can enable forwarding all requests to the email trigger address generated in Conrol Room. The bot can reply to emails using the created mailbox. Save credentials to the mailbox as a secret in Control Room.
 
-To check the bot, please send requests to general@intelautoconsult.com.
-
 # Template: Python - Minimal
 
 This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
